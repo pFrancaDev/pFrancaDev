@@ -2,7 +2,20 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Pedro Franca Costa, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no curso técnico em informática, estou em busca de uma vaga na area onde possa aprender e aprimorar habilidades em Java. Atualmente, estou cursando Ciências da Computação na UNASP-SP. Sou apaixonada por tecnologia, jogos e jogar volei.
+💻 Estudante de Ciência da Computação | Apaixonado por Back-end e Java  
+🎯 Buscando oportunidades como estagiário ou desenvolvedor júnior
+
+## ☕ Sobre mim
+
+  Me chamo Pedro Franca Costa, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no curso técnico em informática, estou em busca de uma vaga na area onde possa aprender e aprimorar habilidades em Java. Atualmente, estou cursando Ciências da Computação na UNASP-SP. Sou apaixonada por tecnologia, jogos e jogar volei. 
+ <br><br>
+ Quando não estou codando, provavelmente estou ouvindo música, jogando Valorant ou explorando novas tecnologias.  
+> "Código limpo é poesia para máquinas e humanos."
+
+## 🌱 Atualmente estudando
+- Java Avançado (POO, Classes Abstratas, Interfaces)
+- Spring Boot e APIs REST
+- Boas práticas de código
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-franca-costa01"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
