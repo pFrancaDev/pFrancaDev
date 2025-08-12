@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Me chamo Pedro Franca Costa, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no curso técnico em informática. Atualmente, estou cursando Ciências da Computação na UNASP-SP. Sou apaixonada por tecnologia, jogos e volei. 
+Me chamo Pedro Franca Costa, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no curso técnico em informática. Atualmente, estou cursando Ciências da Computação na UNASP-SP. Sou apaixonada por tecnologia, jogos e jogar volei.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pedro-franca-costa01"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
